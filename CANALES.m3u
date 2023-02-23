@@ -1,29 +1,86 @@
 #EXTM3U
-#EXTINF:-1 ,Ronnyjaguar latino_2
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_3
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_4
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_6
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_7
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_14
-https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_15
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_16
-https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_17
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_18
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_19
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_20
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_21
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 ,Ronnyjaguar latino_22
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/007_sin_tiempo_para_morir_espanol_2021.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/18_regalos_2020.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/1917_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/22_de_julio_2018.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/2_corazones_2020.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/365_dias_dni_2020.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/3_cosas_2017.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/5_sangres_2020.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/7500_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/7_prisioneros_espanol_2021.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/a_dos_metros_de_ti_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/a_pesar_de_todo_2019.mp4
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/a_quemarropa_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/a_traicion_a_fall_from_grace_2020.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/acto_de_valor_2012.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/agente_bajo_fuego_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/after_aqui_empieza_todo_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/agente_00-gato_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/alerta_roja_red_notice_espanol_2021.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/amenaza_en_lo_profundo_2020.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/annabelle_3_vuelve_a_casa_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/american_factory_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/animales_fantasticos_los_crimenes_de_grindelwald_2018.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/asangre_fria_el_legado_2019.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/alquiler_de_padrinos_2015.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/asesinato_en_el_expreso_de_oriente_2017.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/aquaman_2018.mp4
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="https://i.imgur.com/T9hvrDw.jpg" group-title="PELIS RONNY", ronnyjaguar PELIS
+https://gaby.gabyplayer.workers.dev/1:/RECORTE/1/bohemian_rhapsody_la_historia_de_freddie_mercury_2018.mp4
+
+
+
